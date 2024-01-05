@@ -1,0 +1,14 @@
+{
+    "common": {
+        "timeout": 30
+    },
+    "ssl_cert": {
+        "ssl_port": 443
+    },
+    "port_scan": {
+        "threads": 50
+    },
+    "export": {
+        "format": "txt"
+    }
+}
