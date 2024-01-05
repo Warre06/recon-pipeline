@@ -1,6 +1,6 @@
 # Automated Recon Pipeline - Eindopdracht Ethical Hacking
 
-Dit is mijn eindopdracht voor het vak Ethical Hacking, in het logboek zult u zien dat ik voorbije 3 maanden intensief bezig ben geweest met een pipeline op basis van luigi tasks maar na schrijven van al deze tasks lukte het me niet om ze te koppelen tot een pipeline, iets wat duidelijk vaker voorkomt heb ik gelezen. Daarom heb ik gekozen voor asyncio om toch een zo snel mogelijke pipeline te creeeren, deels met code die ik heb kunnen recupereren van mijn luigi project agz ik hier al heel veel code van had. 
+Dit is mijn eindopdracht voor het vak Ethical Hacking, in het logboek zult u zien dat ik voorbije 3 maanden intensief bezig ben geweest met een pipeline op basis van luigi tasks maar na schrijven van al deze tasks (8!! van dirbusting tot vulnerability scans en meer) lukte het me niet om ze te koppelen tot een pipeline, iets wat duidelijk vaker voorkomt heb ik gelezen. Daarom heb ik last minute gekozen om een nieuw project op te zetten met asyncio om toch een zo snel mogelijke pipeline te creeeren, deels met code die ik heb kunnen recupereren van mijn luigi project agz ik hier al heel veel code van had en natuurlijke zelf nog bijgeschreven. 
 
 ## Features
 
